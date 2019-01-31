@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">WiiMax</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="large_text">
+        "Welcome to the Wiimax Help Desk\n\n"
+
+        "Thank you for purchasing this product. This section is here to help you connect and send "
+        "text to your display.\n\n "
+        "Let’s start. Follow these steps:\n\n"
+        "1.	Connect to the wifi network with the name of the display. Input the provided password to  "
+        "connect to the display.\n"
+        "2.	After launching this app, enter your text where you have been prompted to "
+        "“type new message here!”\n"
+        "3.	Press the button below to send to display.\n"
+        "4.	The display will update with the new text.\n"
+        "Easy right? Its fast and simple.\n\n"
+
+        "If the above method does not work, do the following:\n\n"
+        "1.	Connect to the wifi network with the name of the display. Input the provided password to  "
+        "connect to the display.\n"
+        "2.	Open your phone browser\n"
+        "3.	Key in “192.168.254.1” where you usually input web addresses "
+        "like www.google.com.\n"
+        "4.	A page will open. It looks like the app.\n"
+        "5.	Enter your text where you have been prompted to “type new message here!”\n"
+        "6.	Press the button below to send to display.\n"
+        "7.	The display will update with the new text.\n\n\n"
+
+        "If all the above steps do not work, please contact us. "
+        "Our contacts are found at the about us section.\n\n"
+    </string>
+</resources>
